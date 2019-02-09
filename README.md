@@ -4,4 +4,5 @@
 - Kivy 1.10.x
 
 ### Descripción
-
+En proceso...
+! [building](building.jpg)
